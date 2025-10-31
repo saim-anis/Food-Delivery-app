@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Eats",
+  "description": "A modern food ordering web application that uses the Gemini API to dynamically generate its menu. Users can browse items, add them to a shopping cart, and see the total cost.",
+  "requestFramePermissions": []
+}
